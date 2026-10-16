@@ -41,8 +41,8 @@ After successful PIN verification, the ATM menu allows the user to check the bal
 ## Default Configuration
 - Initial balance: 50000
 - Initial token number: 1001
-- PIN for ID 1: 1234
-- PIN for ID 2: 5678
+- PIN for ID 1: 5693
+- PIN for ID 2: 2723
 
 **Note:** These are demonstration values defined in the source code and should be changed before any real-world use.
 
